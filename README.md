@@ -54,6 +54,12 @@ In the loop
 For loop Ends
 
 
+## Websites for References:
+
+1. https://medium.com/analytics-vidhya/step-by-step-implementation-of-conditional-generative-adversarial-networks-54e4b47497d6
+
+
+
 
 ## Description of Files and Folders
 
